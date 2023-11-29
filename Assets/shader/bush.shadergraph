@@ -1099,8 +1099,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -668.0,
-            "y": 480.0,
+            "x": -767.0000610351563,
+            "y": 469.0000305175781,
             "width": 112.0,
             "height": 34.0
         }
@@ -5189,7 +5189,7 @@
     "m_AlphaMode": 0,
     "m_RenderFace": 0,
     "m_AlphaClip": true,
-    "m_CastShadows": false,
+    "m_CastShadows": true,
     "m_ReceiveShadows": true,
     "m_SupportsLODCrossFade": false,
     "m_CustomEditorGUI": "",
